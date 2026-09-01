@@ -1,10 +1,12 @@
-# ECE 2112 — Experiment 1: Introduction to Python Programming
+# ECE 2112 - Experiment 1: Introduction to Python Programming
 
 **Name:** Bacual, John Matthew P.
 
 **Section:** 2ECE-A
 
 **Date Submitted:** August 31, 2026
+
+The content of this repository contains *Programming Assignment 1* for **ECE 2112: Advanced Computer Programming and Algorithms for S.Y. 2026–2027**. This project covers three Python programming problems under Experiment 1: Introduction to Python Programming.
 
 ## Objective
 
@@ -112,3 +114,13 @@ swap_bookends([8, 3])
 ```
 
 The results confirm that the first and last elements are successfully exchanged while the middle elements remain in their original order. The function also returns a new list rather than modifying the original input list. The executed test results are shown in the submitted Jupyter Notebook.
+
+---
+
+**Thank you for reading!**
+
+To see the main python program for Programming Assignment 1, click this link https://github.com/johnmatthewbacual-ECE/ECE2112_PA1/blob/d5a9773634174aa95ab44c32cf2c6ca8a83a75ec/Bacual_2ECE-A_PA1.ipynb and download. Open on Jupyter Notebook, then run all cells.
+
+README file Version History:
+**September 1, 2025** - README output uploaded.
+
